@@ -1,4 +1,6 @@
-各币种的手续费补偿结果，见output目录下的表格：
+各币种的手续费补偿结果，见output目录下的表格
+
+For the fee compensation results of each token, see the table under the output directory
 
 - user_EOS_fees.csv
 - user_USDT_fees.csv
